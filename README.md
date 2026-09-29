@@ -311,5 +311,5 @@ npm run dev        # starts the app on http://localhost:5173
 
 ## Author
 
-**Rohith** · Computer Science, VNR VJIET
-Built as a full-stack portfolio project to demonstrate role-based access control, relational data modeling in MongoDB, and safe concurrent writes.
+**Rohith** · Data Science, VNR VJIET
+Built as a full-stack  project to demonstrate role-based access control, relational data modeling in MongoDB, and safe concurrent writes.
